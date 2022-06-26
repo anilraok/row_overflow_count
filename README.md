@@ -2,7 +2,7 @@
 
 This library helps you show the number of elements hidden when overflow occurs in Row Widget.
 
-<img src="https://github.com/anilraok/row_overflow_count/raw/master/assets/row-overflow-count.jpg" alt="Network Inspector in Action">
+<img src="https://raw.githubusercontent.com/anilraok/row_overflow_count/main/assets/row-overflow-count.jpg" alt="Network Inspector in Action">
 
 Please look at the example code to see how to use this library.
 

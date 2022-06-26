@@ -1,5 +1,5 @@
 name: row_overflow_count
-description: A new Flutter package project.
+description: This library helps you show the number of elements hidden when overflow occurs in Row Widget
 version: 0.0.1
 homepage: https://github.com/anilraok/row_overflow_count
 

@@ -1,6 +1,6 @@
 name: row_overflow_count
 description: This library helps you show the number of elements hidden when overflow occurs in Row Widget
-version: 0.0.1
+version: 0.0.2
 homepage: https://github.com/anilraok/row_overflow_count
 
 environment:
